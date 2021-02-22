@@ -1,7 +1,7 @@
-#Mon Feb 22 10:38:49 EST 2021
-base.0=/Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+#Mon Feb 22 10:51:48 EST 2021
+base.0=/Users/jianhuichen/Desktop/CodePath/Twitter-App/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=/Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+base.1=/Users/jianhuichen/Desktop/CodePath/Twitter-App/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex

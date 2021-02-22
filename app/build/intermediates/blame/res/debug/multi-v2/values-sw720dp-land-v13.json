@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+            "outputFile": "/Users/jianhuichen/Desktop/CodePath/Twitter-App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
             "map": [
                 {
-                    "source": "/Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "source": "/Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/res/values-sw720dp-land/dimens.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",

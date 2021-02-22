@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:2:1-39:12
+ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:2:1-39:12
 MERGED from [com.codepath.libraries:android-oauth-handler:2.2.0] /Users/jianhuichen/.gradle/caches/transforms-2/files-2.1/883f3cd1bf7e837393088ac1b9c69cea/jetified-android-oauth-handler-2.2.0/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/jianhuichen/.gradle/caches/transforms-2/files-2.1/92c0dc38ab14236f7b6eba66cf79139b/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
 MERGED from [com.codepath.libraries:asynchttpclient:0.0.9] /Users/jianhuichen/.gradle/caches/transforms-2/files-2.1/ec8a2be8ac7b890dbd2f70ecdd8769f6/jetified-asynchttpclient-0.0.9/AndroidManifest.xml:2:1-11:12
@@ -37,33 +37,33 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jianhuichen/.gra
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jianhuichen/.gradle/caches/transforms-2/files-2.1/e2041232485bdf4d2a09c36930218fc5/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jianhuichen/.gradle/caches/transforms-2/files-2.1/0b3ed2b8b9ba103e713cc57e24141ba7/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jianhuichen/.gradle/caches/transforms-2/files-2.1/80494d026c905f06e4c8b45b3569cb2d/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:2:1-39:12
 	package
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:3:5-51
-		INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:5:5-30
-		INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:7:5-67
+ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:7:5-67
 	android:name
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:7:22-64
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:7:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:8:5-81
+ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:8:22-78
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:8:22-78
 application
-ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:10:5-37:19
+ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:10:5-37:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/jianhuichen/.gradle/caches/transforms-2/files-2.1/92c0dc38ab14236f7b6eba66cf79139b/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/jianhuichen/.gradle/caches/transforms-2/files-2.1/92c0dc38ab14236f7b6eba66cf79139b/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/jianhuichen/.gradle/caches/transforms-2/files-2.1/fa52e002ae9e78e35c25fee9f61d47d2/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
@@ -83,61 +83,61 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jian
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] /Users/jianhuichen/.gradle/caches/transforms-2/files-2.1/c24177ae83091978e5c4ae83bccf2f01/core-1.3.1/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:14:9-41
 	android:icon
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:13:9-45
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:13:9-45
 	android:allowBackup
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:15:9-40
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:15:9-40
 	android:name
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:11:9-35
 activity#com.codepath.apps.restclienttemplate.TimelineActivity
-ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:16:9-63
+ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:16:9-63
 	android:name
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:16:19-51
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:16:19-51
 activity#com.codepath.apps.restclienttemplate.LoginActivity
-ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:17:9-36:20
+ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:17:9-36:20
 	android:label
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:19:13-45
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:19:13-45
 	android:theme
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:20:13-44
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:20:13-44
 	android:name
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:18:13-42
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:18:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:21:13-25:29
+ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:24:27-74
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/intent_host+data:scheme:@string/intent_scheme
-ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:26:13-35:29
+ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:26:13-35:29
 action#android.intent.action.VIEW
-ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:27:17-69
+ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:27:25-66
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:27:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:29:17-76
+ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:29:17-76
 	android:name
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:29:27-73
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:29:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:30:17-78
+ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:30:17-78
 	android:name
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:30:27-75
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:30:27-75
 data
-ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:32:17-34:62
+ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:32:17-34:62
 	android:host
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:33:21-55
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:33:21-55
 	android:scheme
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml:34:21-59
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml:34:21-59
 uses-sdk
-INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml
-INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml
 MERGED from [com.codepath.libraries:android-oauth-handler:2.2.0] /Users/jianhuichen/.gradle/caches/transforms-2/files-2.1/883f3cd1bf7e837393088ac1b9c69cea/jetified-android-oauth-handler-2.2.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.codepath.libraries:android-oauth-handler:2.2.0] /Users/jianhuichen/.gradle/caches/transforms-2/files-2.1/883f3cd1bf7e837393088ac1b9c69cea/jetified-android-oauth-handler-2.2.0/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/jianhuichen/.gradle/caches/transforms-2/files-2.1/92c0dc38ab14236f7b6eba66cf79139b/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
@@ -204,16 +204,16 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jianhuichen/.g
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jianhuichen/.gradle/caches/transforms-2/files-2.1/0b3ed2b8b9ba103e713cc57e24141ba7/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jianhuichen/.gradle/caches/transforms-2/files-2.1/80494d026c905f06e4c8b45b3569cb2d/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jianhuichen/.gradle/caches/transforms-2/files-2.1/80494d026c905f06e4c8b45b3569cb2d/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml
-INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml
-		ADDED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jianhuichen/Desktop/CodePath/Twitter-App/app/src/main/AndroidManifest.xml
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.2.5] /Users/jianhuichen/.gradle/caches/transforms-2/files-2.1/94408f450c40aad162bc9708d96445f2/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
 	android:exported

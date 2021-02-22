@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jianhuichen/Desktop/CodePath/SimpleTweet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml",
+            "outputFile": "/Users/jianhuichen/Desktop/CodePath/Twitter-App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml",
             "map": [
                 {
                     "source": "/Users/jianhuichen/.gradle/caches/transforms-2/files-2.1/a16db5b44425ecffd4781fb791b0f708/appcompat-1.2.0/res/values-kk/values-kk.xml",
